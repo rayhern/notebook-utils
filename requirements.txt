@@ -1,0 +1,4 @@
+condacolab
+requests
+transformers[onnx]
+sentencepiece
